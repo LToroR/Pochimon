@@ -26,7 +26,7 @@ public class Pochimon extends ElementAbs implements ICatchable {
 Aquest projecte és una implementació de *Pochimon*.
 
 ## Contacte
-**Lucas Toro** - ***ltoro@ibadia.cat***.
+**Lucas Toroo** - ***ltoro@ibadia.cat***.
 
 Enllaç del projecte:
 [https://github.com/user/pochimon](https://github.com/user/pochimon)
